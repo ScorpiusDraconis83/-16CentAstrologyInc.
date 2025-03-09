@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/scorpiusdraconis83/7b269aaa-e5d0-45b3-b7d5-cd3510d2d91c/fae65f47-50db-44af-af18-9ab41a3a9ba7/_apis/work/boardbadge/96e852a8-51bb-48e1-bf5d-d34cc5190263)](https://dev.azure.com/scorpiusdraconis83/7b269aaa-e5d0-45b3-b7d5-cd3510d2d91c/_boards/board/t/fae65f47-50db-44af-af18-9ab41a3a9ba7/Microsoft.RequirementCategory)
 **Detectron is deprecated. Please see [detectron2](https://github.com/facebookresearch/detectron2), a ground-up rewrite of Detectron in PyTorch.**
 
 # Detectron
